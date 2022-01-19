@@ -2,3 +2,8 @@ h1 {
     color: rgb(30, 204, 210);
     background-color: rgb(222, 208, 176)
 }
+
+h1.page-title{
+    color: red;
+    font-size: 50 px;
+}
